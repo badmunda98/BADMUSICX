@@ -10,7 +10,7 @@ gitpython
 hachoir
 heroku3
 apscheduler
-motor==3.0.0
+motor==3.3.2
 pillow==10.0.0
 psutil
 wget
